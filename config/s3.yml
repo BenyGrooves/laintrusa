@@ -1,0 +1,15 @@
+development:
+  bucket: 'laintrusa-store-development'
+  access_key_id: 'AKIAJKVMQR4XYZYJQRNA'
+  secret_access_key: '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'
+
+test:
+  bucket: 'laintrusa-store-test'
+  access_key_id: 'AKIAJKVMQR4XYZYJQRNA'
+  secret_access_key: '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'
+
+production:
+  bucket: 'laintrusa-store-production'
+  access_key_id: 'AKIAJKVMQR4XYZYJQRNA'
+  secret_access_key: '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'
+
